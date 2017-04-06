@@ -1,5 +1,5 @@
 # ChatNow
-The User Interface team was required to build a simulation of a web chat
+The simulation of web chat 
 
 Please download the attached file(MuhammadRafi.x)  and follow the below steps.
 
