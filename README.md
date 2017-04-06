@@ -4,11 +4,12 @@ The simulation of web chat
 Please download the attached file(MuhammadRafi.x)  and follow the below steps.
 
 ### Step 1
-Rename the file type `.x` to `.zip` , that is  `MuhammadRafi.x` to `MuhammadRafi.zip`
+Please download the attached file `MuhammadRafi.zip`.<br>
+https://github.com/muhraff/chatNow/raw/master/MuhammadRafi.zip
 
 ### Step 2
 Extract the `MuhammadRafi.zip`. 
-#### `Please call me for the password (0466233356)`
+#### `Please call me for password (0466233356)`
 
 ### Step 3
 Once downloaded, unzip the compressed folder to see the structure of files. You'll see something like this:
