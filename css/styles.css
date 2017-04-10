@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Oswald:400,700');
+/*Use the following CSS rules to specify these families:
+font-family: 'Oswald', sans-serif;
+font-family: 'Open Sans', sans-serif;
+*/
+* { margin: 0; padding: 0;}
+body{font: 13px  Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"}
+h1{font: bold 20px 'Oswald', sans-serif; }
+button{font: bold 15px 'Open Sans', sans-serif; padding: 5px; color: #fff; background: none; border: 2px solid #fff; }
+div#webChat{position: absolute; z-index: 9999; width: 300px; background: #9c2626; right: 10px; bottom: 0; border-radius: 5px 5px 0 0; padding: 10px;}
+#webChat h1{ color: #fff; padding-bottom: 10px;}
+.chatMsg h2{color: #666; font-size: 22px; font-weight: bold}
+#chatBody{ position: relative;border: 2px solid #fff; border-radius:  5px; padding: 10px 0 10px; background: #dfdfdf; color: #666666;min-height: 100px; margin-bottom: 80px; }
+.arrow-up-left {position: absolute; bottom: 0;right: 70px;width: 0;height: 0;}
+.arrow-up-left:before {content: "";display: block;width: 0;height: 0;border-bottom: 30px solid transparent;border-left: 47px solid #fff;}
+.arrow-up-left:after {position: absolute;top: 0;left: 2px;content: "";display: block;width: 0;height: 0;border-bottom: 27px solid transparent;border-left: 40px solid #dfdfdf; }
+#chatform{ position: absolute; left: 0; right: 0; bottom: 10px; padding: 10px;}
+button.chatNow{text-decoration: underline;border: none; float: right;}
+button.send{}
+.chatbox{display: none; }
+.chatMsg{padding: 10px 20px 10px; overflow-y: auto; overflow-x: hidden; max-height: 275px;}
+.chatMsg p{padding: 10px;  margin-bottom: 10px;animation: 1s text-up; margin-top:0%;color: #000}
+.chatMsg p.user{background: #fff;    border-radius: 5px;  }
+.chatbox #textarea{width: 200px; padding: 5px; margin-right: 2px;height: 23px;float: left}
+.chatbox button{}
+
+@keyframes text-up {
+  from {margin-top: 5%; height: 5%;}
+  to {margin-top: 0%;height: 5%;}
+}
