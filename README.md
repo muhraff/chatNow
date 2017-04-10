@@ -1,17 +1,13 @@
 # ChatNow
 The simulation of web chat 
 
-Please download the attached file(MuhammadRafi.x)  and follow the below steps.
+Please follow the below mentioned steps.
 
 ### Step 1
-Please download the attached file `MuhammadRafi.zip`.<br>
-https://github.com/muhraff/chatNow/raw/master/MuhammadRafi.zip
+Please download the file.<br>
+https://github.com/muhraff/chatNow/archive/master.zip
 
 ### Step 2
-Extract the `MuhammadRafi.zip`. 
-#### `Please call me for password (0466233356)`
-
-### Step 3
 Once downloaded, unzip the compressed folder to see the structure of files. You'll see something like this:
 
 ```
@@ -24,7 +20,7 @@ MuhammadRafi/
 └── chatPopUp.html
 ```
 
-### Step 4
+### Step 3
 Click to open the chatPopUp.html You could see the chat window now. Click on the "Chat Now" button to continue.
 
 ### Enjoy!!!
